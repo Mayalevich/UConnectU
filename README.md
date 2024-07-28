@@ -1,4 +1,4 @@
-# UConnectU
+# WConnectU
 
 ## Inspiration
 The inspiration for WConnectU came from a desire to create a platform that connects people to community resources through social prescribing. Witnessing the positive impact of social connections on mental and physical health, we wanted to build a tool that could facilitate these connections and improve overall well-being.
